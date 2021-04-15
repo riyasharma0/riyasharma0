@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya Sharma.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning DevOps.
 - 📫 You can reach me on 
 - Linkedin:- https://www.linkedin.com/in/riya-sharma-5888r/ 
 - Gmail:- riyasharma224322@gmail.com
